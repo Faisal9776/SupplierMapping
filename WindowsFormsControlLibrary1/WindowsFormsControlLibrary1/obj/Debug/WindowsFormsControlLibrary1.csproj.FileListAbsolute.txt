@@ -1,0 +1,7 @@
+C:\Users\Faisal Eamani\source\repos\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Faisal Eamani\source\repos\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\Faisal Eamani\source\repos\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.UserControl1.resources
+C:\Users\Faisal Eamani\source\repos\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.cache
+C:\Users\Faisal Eamani\source\repos\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Faisal Eamani\source\repos\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\Faisal Eamani\source\repos\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csprojAssemblyReference.cache
